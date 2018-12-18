@@ -1,0 +1,21 @@
+# Don't track content of these folders
+bin/
+include/
+lib/
+share/
+
+# Compiled source #
+###################
+*.pyc
+
+# Packages #
+############
+# it's better to unpack and commit raw source
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
