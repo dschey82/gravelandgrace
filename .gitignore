@@ -19,3 +19,7 @@ share/
 *.rar
 *.tar
 *.zip
+
+# Database #
+############
+*.sqlite3
